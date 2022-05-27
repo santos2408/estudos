@@ -1,4 +1,4 @@
-## Estudos
+# Estudos
 
 Criei este repositório para facilitar e unificar o acesso ao que estou estudando no momento, as seções estão separadas por curso e dentro delas há uma breve introdução do curso e um link para o seu repositório.
 
