@@ -8,8 +8,10 @@ Treinamento online com aulas, exercícios, revisões e projetos, focado em levar
 
 [Acessar repositório](https://github.com/santos2408/CJRM-Javascript)
 
-### VueMasterclass - Curso de Vue 3
+### React.JS e Next.JS
 
-O Vue Masterclass introduz o poderoso VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de um projeto completo usando Vue, Vuex, TypeScript, TailwindCSS e mais.
+ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de projetos completos.
 
-[Acessar repositório](https://github.com/santos2408/VueMastery)
+
+
+[Acessar repositório](https://github.com/santos2408/ReactJS-Course)
