@@ -8,10 +8,10 @@ Treinamento online com aulas, exercícios, revisões e projetos, focado em levar
 
 [Acessar repositório](https://github.com/santos2408/CJRM-Javascript)
 
-### React.JS e Next.JS
+### Vue JS
 
-ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de projetos completos.
+VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de um projeto completo usando Vue e Vuex
 
 
 
-[Acessar repositório](https://github.com/santos2408/ReactJS-Course)
+[Acessar repositório](https://github.com/santos2408/VueJS)
