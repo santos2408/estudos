@@ -8,10 +8,8 @@ Treinamento online com aulas, exercícios, revisões e projetos, focado em levar
 
 [Acessar repositório](https://github.com/santos2408/CJRM-Javascript)
 
-### Vue JS
+### VueMasterclass - Curso de Vue 3
 
-VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de um projeto completo usando Vue e Vuex
+O curso apresenta o VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de um projeto completo usando Vue, Vuex, TypeScript, TailwindCSS, Testes e muito mais.
 
-
-
-[Acessar repositório](https://github.com/santos2408/VueJS)
+[Acessar repositório](https://github.com/santos2408/VueMastery)
