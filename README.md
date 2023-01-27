@@ -8,11 +8,14 @@ Treinamento online com aulas, exercícios, revisões e projetos, focado em levar
 
 [Acessar repositório](https://github.com/santos2408/CJRM-Javascript)
 
+-------------------------------------------------------------------------------------------
+
 ### Laravue - Vue 3
 
 O curso apresenta o VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também em tópicos mais avançados, abordando os conceitos mais básicos até os mais avançados, focado também na construção de projetos usando Vue, Vuex, Router, entre outros. Ministrado pelo professor Tiago Matos.
 
 <!-- [Acessar repositório](https://github.com/santos2408/VueMastery) -->
+-------------------------------------------------------------------------------------------
 
 ### Beecrowd - Lógica com Javascript
 
