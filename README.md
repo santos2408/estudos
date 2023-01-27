@@ -1,6 +1,6 @@
 # :books: Estudos
 
-Criei este repositório para facilitar e unificar o acesso ao que estou estudando no momento, as seções estão separadas por curso e dentro delas há uma breve introdução do curso e um link para o seu repositório. Os arquivos dentro dos cursos nem sempre seguirão uma lógica de aulas ou algo do tipo, em alguns casos poderão conter apenas testes vagos apenas para praticar o que está sendo estudado.
+Criei este repositório para facilitar e unificar o acesso ao que estou estudando no momento, as seções estão separadas por curso e dentro delas há uma breve introdução do curso e um link para o seu repositório. Os arquivos dentro dos cursos nem sempre seguirão uma lógica de aulas ou algo do tipo, em alguns casos poderão conter testes vagos apenas para praticar o que está sendo estudado.
 
 ### CJRM - JavaScript
 
