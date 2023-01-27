@@ -16,6 +16,6 @@ O curso apresenta o VueJS Framework para construção de páginas dinâmicas e i
 
 ### Beecrowd - Lógica com Javascript
 
-Plataforma com uma série de testes para treinar a resolução de exercícios e raciocínio lógico. No repositório contém os exercícios resolvidos por mim e em alguns casos alguns serão alterados para corrigir a resolução refatorar o código.
+Plataforma com uma série de testes para treinar a resolução de exercícios e raciocínio lógico. No repositório contém os exercícios resolvidos por mim e em alguns casos alguns serão alterados para corrigir a resolução ou refatorar o código.
 
 [Acessar repositório](https://github.com/santos2408/beeCrowd-tests)
