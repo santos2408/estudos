@@ -4,7 +4,7 @@ Criei este repositório para facilitar e unificar o acesso ao que estou estudand
 
 ### CJRM - JavaScript
 
-Treinamento online com aulas, exercícios, revisões e projetos, focado em levar programadores e aspirantes a programador a construir do zero aplicações web com JavaScript puro, com o objetivo de nos levar à fluência em JavaScript, tornando-nos mais independentes na hora do desenvolvimento. Ministrado pelo professor Roger Melo.
+Treinamento online com aulas, exercícios, revisões e projetos, focado em levar programadores e aspirantes a programador a construir do zero aplicações web com JavaScript puro, com o objetivo de nos levar à fluência em JavaScript, tornando-nos mais independentes na hora do desenvolvimento. Ministrado pelo professor Roger Melo. Repositório atualizado frequentemente com base nos conhecimentos adiquiridos.
 
 [Acessar repositório](https://github.com/santos2408/CJRM-Javascript)
 
