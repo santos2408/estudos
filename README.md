@@ -14,7 +14,7 @@ Treinamento online com aulas, exercícios, revisões e projetos, focado em levar
 
 O curso apresenta o VueJS Framework para construção de páginas dinâmicas e interfaces reativas. Focado nos fundamentos da biblioteca e também na construção de um projeto completo usando Vue, Pinia, TypeScript, TailwindCSS, Testes e muito mais.
 
-[Acessar repositório](https://github.com/santos2408/VueMastery-course)
+[Acessar repositório](https://github.com/santos2408/vue-masterclass-course)
 
 -------------------------------------------------------------------------------------------
 
